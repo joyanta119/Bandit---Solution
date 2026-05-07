@@ -1,2 +1,2 @@
-# Bandit---Solution
-Bandit Challenge Solutions and walkthrough
+# Bandit-Solution
+Bandit Challenge Solutions and walkthrough (1-10)
